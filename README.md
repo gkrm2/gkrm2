@@ -174,18 +174,6 @@ Being pursued a **Master of Science in Artificial Intelligence Systems**, I cont
 
 ---
 
-## 📈 GitHub Stats
-
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gkrm2&show_icons=true&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=gkrm2&theme=github-dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gkrm2&layout=compact&theme=github_dark)
-```
-
----
-
 ## 📚 Current Focus
 
 - 🧠 Enterprise AI Solutions
