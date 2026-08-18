@@ -1,13 +1,12 @@
-# Hi there, I'm Gopalakrishna Reddy Manukonda👋
+# Hi there, I'm Gopalakrishna Reddy Manukonda 👋
 
 <div align="center">
 
 # AI & Data Engineer
-
 ### Building Scalable Enterprise Data Solutions
 
-🎓 **M.S. in Artificial Intelligence Systems**  
-💻 AI • Data Engineering • Backend Development • Cloud
+🎓 **M.S. in Artificial Intelligence Systems**
+💻 LLMs • RAG • Agentic AI • Data Engineering • Cloud
 
 <p>
   <a href="https://github.com/gkrm2">
@@ -24,49 +23,44 @@
 
 ## 👨‍💻 About Me
 
-I'm an AI & Data Engineer passionate about designing intelligent, scalable, and production ready data solutions that empower businesses to make data driven decisions.
+I'm an AI & Data Engineer building production grade AI systems from RAG pipelines and multi agent architectures to the data infrastructure that powers them at enterprise scale.
 
-My interests span across Artificial Intelligence, Data Engineering, Backend Development, Cloud Computing, and Enterprise System Design. I enjoy building high performance applications, developing AI-powered workflows, and architecting reliable data platforms capable of handling large scale enterprise workloads.
+My work spans LLM based applications, agentic workflows, real time data pipelines, and cloud native deployments (AWS/Azure) that serve real users in production, not just proofs of concept. I've shipped systems handling millions of records, built observability into ML pipelines, and worked directly with governance teams on hallucination mitigation and PII/privacy guardrails.
 
-Being pursued a **Master of Science in Artificial Intelligence Systems**, I continuously explore emerging technologies in AI, modern data platforms, and cloud native architectures while focusing on building software that is scalable, maintainable, and impactful.
+Pursued my **M.S. in Artificial Intelligence Systems**, with a focus on turning emerging AI research into reliable, scalable, production software.
 
 ---
 
 ## 🚀 What I Do
 
-- 🤖 Develop AI powered applications and intelligent automation solutions
-- 📊 Design scalable data pipelines and enterprise data platforms
-- 🏗️ Build backend services and RESTful APIs
-- ☁️ Deploy cloud native applications on AWS & Azure
-- 📈 Build data driven solutions for analytics and decision intelligence
-- 🧠 Explore Large Language Models (LLMs), AI Agents, and RAG
-- ⚙️ Design scalable software architectures following engineering best practices
+- 🤖 Build production LLM applications - RAG systems, multi-agent workflows, conversational AI
+- 📊 Design and deploy scalable data pipelines and enterprise data platforms
+- ☁️ Architect and deploy cloud native services on AWS & Azure (EKS, Lambda, Databricks)
+- 🧠 Build agentic systems using LangGraph and MCP based tool calling
+- 📈 Ship forecasting and recommendation engines that move real business metrics
+- ⚙️ Build observability into ML systems - latency, drift, cost, and reliability monitoring
+
+---
+
+## 🏆 Highlighted Work
+
+- **Enterprise RAG Platform** - Hybrid SQL + RAG system over multi-modal enterprise data (SharePoint, Word, PPT via Microsoft Graph API), serving low-latency semantic search across millions of records with hallucination filters and PII guardrails
+- **Agentic Innovation Assistant** - Voice + chat multi-agent system (QnA, NL-to-SQL analytics, idea critique, brainstorming) with MCP-based tool calling, ~5s latency
+- **AutoTrading Platform** - Agentic trading system integrating live broker execution (Zerodha, Fyers), improving trade efficiency by 35% and ROI by 13%
+- **Forecasting Engine** - TimeLLM + real-time sentiment/technical/fundamental signal fusion across NSE, NASDAQ, NYSE at 92% accuracy
+- **E-commerce Recommendation Engine** - Deployed across 8K+ products / 27 franchises, driving an 18% sales lift and 60% reduction in user activity time in Q1 post-launch
 
 ---
 
 ## 💡 Areas of Interest
 
-- Artificial Intelligence
-- Machine Learning
-- Data Engineering
-- Data Analytics
-- Large Language Models (LLMs)
-- AI Agents
-- Retrieval-Augmented Generation (RAG)
-- Backend Engineering
-- Distributed Systems
-- Cloud Computing
-- Data Architecture
-- Enterprise Software
-- System Design
-- Intelligent Automation
+Large Language Models · Retrieval Augmented Generation · Agentic AI · Model Context Protocol (MCP) · Machine Learning · Data Engineering · Distributed Systems · Cloud-Native Architecture · Enterprise AI Systems
 
 ---
 
 # 🛠️ Tech Stack
 
 ### Languages
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
@@ -76,113 +70,41 @@ Being pursued a **Master of Science in Artificial Intelligence Systems**, I cont
 ---
 
 ### AI & Machine Learning
+- LLMs · RAG · Agentic AI (LangGraph, MCP) · Prompt Engineering · LLM Evaluation
+- Machine Learning · Deep Learning · NLP · Time Series Forecasting
 
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Computer Vision
-- Large Language Models (LLMs)
-- AI Agents
-- Prompt Engineering
-- Retrieval-Augmented Generation (RAG)
-- Time Series Forecasting
-
-**Frameworks**
-
-- PyTorch
-- TensorFlow
-- Hugging Face
-- LangChain
-- LlamaIndex
-- Scikit-learn
-- Pandas
-- NumPy
+**Frameworks:** PyTorch · TensorFlow · Hugging Face · LangChain · LangGraph · LlamaIndex · Scikit-learn · Pandas · NumPy
 
 ---
 
 ### Data Engineering
-
-- ETL / ELT
-- Data Pipelines
-- Data Integration
-- Data Modeling
-- Data Warehousing
-- Metadata Management
-- Batch Processing
-- Data Quality
-- Data Governance
-- Data Analytics
+ETL/ELT · Data Pipelines · Data Modeling · Data Warehousing · Batch & Real-Time Processing · Data Quality · Data Governance
 
 ---
 
 ### Backend Development
-
-- FastAPI
-- Flask
-- REST APIs
-- GraphQL
-- Microservices
-- Authentication
-- Async Python
+FastAPI · Flask · REST APIs · GraphQL · Microservices · Async Python
 
 ---
 
 ### Databases
-
-- PostgreSQL
-- MongoDB
-- MySQL
-- SQLite
-- Vector Databases
+PostgreSQL · MongoDB · MySQL · Vector Databases (OpenSearch, Neptune)
 
 ---
 
 ### Cloud & DevOps
-
-- AWS
-- Microsoft Azure
-- Docker
-- GitHub Actions
-- Linux
-- Nginx
-- CI/CD
+AWS (EKS, EC2, Lambda, S3, RDS, OpenSearch) · Microsoft Azure (Databricks) · Docker · GitHub Actions · CI/CD · Airflow · Linux
 
 ---
 
 ### Tools
-
-- Git
-- GitHub
-- VS Code
-- Postman
-- Jira
-- Confluence
-- Figma
+Git · GitHub · VS Code · Postman · Jira · Confluence · Figma
 
 ---
 
 ## 🌱 Currently Learning
 
-- Enterprise Data Architecture
-- Modern Data Platforms
-- Multi Agent Systems
-- Model Context Protocol (MCP)
-- Kubernetes
-- Event-Driven Architecture
-- Distributed Data Systems
-- Advanced Cloud Architectures
-
----
-
-## 📚 Current Focus
-
-- 🧠 Enterprise AI Solutions
-- 📊 Scalable Data Engineering
-- ☁️ Cloud-Native Development
-- 🤖 Intelligent Automation
-- 📈 Data Platforms
-- 🏗️ Distributed Systems
-- ⚡ High-Performance Backend Engineering
+Multi Agent Systems · Model Context Protocol (MCP) · Kubernetes · Event Driven Architecture · Advanced Cloud Architectures · Full Stack Application Development
 
 ---
 
@@ -192,11 +114,9 @@ Being pursued a **Master of Science in Artificial Intelligence Systems**, I cont
   <a href="https://linkedin.com/in/mgkreddy/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="https://github.com/gkrm2">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
   <a href="mailto:m.gopalkrishnareddy2@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
