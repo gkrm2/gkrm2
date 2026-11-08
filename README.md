@@ -38,7 +38,7 @@
 
 I'm an **AI & Data Engineer** specializing in building and deploying production-grade **AI/ML systems, agentic applications, and cloud-native backend platforms**.
 
-My work spans the complete AI engineering lifecycle — from data ingestion and model development to multi-agent orchestration, enterprise integrations, deployment, monitoring, and governance.
+My work spans the complete AI engineering lifecycle - from data ingestion and model development to multi-agent orchestration, enterprise integrations, deployment, monitoring, and governance.
 
 I hold an **M.S. in Artificial Intelligence Systems from the University of Florida**, with experience delivering enterprise AI solutions across healthcare, supply chain, e-commerce, and quantitative analytics.
 
@@ -140,8 +140,6 @@ Developed an AI-driven data-readiness assessment platform integrating **Azure Da
 - Generated AI/ML readiness scores and remediation recommendations
 - Reduced assessment turnaround time from **nearly 90 days to under one week**
 
-> 🔒 Enterprise work is summarized at a high level. Proprietary source code, internal architecture, and confidential business data are not publicly shared.
-
 ---
 
 ## 💡 Selected Projects
@@ -162,12 +160,12 @@ Developed an NLP classification pipeline to automatically classify question diff
 - Processed approximately **3,000 assessment questions**
 - Achieved approximately **91% accuracy per classification task**
 
-### 🛠️ SAP Assist — AI-Powered Enterprise Support
+### 🛠️ SAP Assist - AI-Powered Enterprise Support
 **RAG · Multimodal AI · SAP · ServiceNow · REST APIs**
 
 Developed a multimodal RAG-powered assistant integrating enterprise knowledge bases, screenshot analysis, and ServiceNow APIs to support troubleshooting, incident classification, ticket creation, and routing.
 
-### 📈 StockGenius — Quantitative Trading & Forecasting
+### 📈 StockGenius - Quantitative Trading & Forecasting
 **Python · TimeLLM · LangGraph · PostgreSQL · MongoDB**
 
 Engineered a quantitative analytics and trading platform combining time-series forecasting, sentiment analysis, market data pipelines, and broker integrations.
@@ -246,7 +244,7 @@ Engineered a quantitative analytics and trading platform combining time-series f
 
 **University of Florida**  
 M.S. in Artificial Intelligence Systems | GPA: **3.9/4.0**  
-August 2024 – December 2025
+August 2024 - December 2025
 
 **Research Capstone:** LLM Reprogramming for Generalizable Time Series Forecasting
 
@@ -255,20 +253,23 @@ August 2024 – December 2025
 ## 📚 Publications
 
 📄 **Fine-Tuned Transformer Models for Question Answering**  
-IEEE, July 2023 — [Read Publication](https://ieeexplore.ieee.org/document/10307046)
+IEEE, July 2023 - [Read Publication](https://ieeexplore.ieee.org/document/10307046)
 
 📄 **Exploring the Best ML Algorithm for Predicting Employee Attrition**  
-IJRAR, July 2023 — [Read Publication](https://ijrar.org/viewfull.php?&p_id=IJRAR23C1403)
+IJRAR, July 2023 - [Read Publication](https://ijrar.org/viewfull.php?&p_id=IJRAR23C1403)
 
 ---
+
 
 ## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gkrm2&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkrm2&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img
+    src="https://streak-stats.demolab.com?user=gkrm2&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+    width="65%"
+  />
 
 </div>
 
